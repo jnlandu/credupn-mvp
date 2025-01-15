@@ -8,12 +8,15 @@ First, install the dependencies:
 
 ```bash
 npm install
+```
 
+```bash
 npm run dev
+```
 
 Open http://localhost:3000 with your browser to see the result.
 
-Features
+## Features
 Academic article submission system
 Peer review workflow
 Publication management
@@ -24,8 +27,8 @@ Next.js - React framework
 Tailwind CSS - CSS framework
 Radix UI - UI component library
 next-themes - Theme management
-# Project Structure
 
+## Project Structure
 app/             # Next.js app directory
 components/      # React components
 hooks/           # Custom React hooks
@@ -33,5 +36,5 @@ lib/            # Utility functions
 public/         # Static assets
 styles/         # Global styles
 
-# License
+## License
 This project is licensed under the MIT License.
